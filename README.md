@@ -5,4 +5,4 @@ The Breast Cancer Predictor is a machine learning project that classifies breast
 
 This project demonstrates the potential of machine learning in healthcare, providing a simple tool for early detection and aiding informed decision-making.
 ## Live Demo  
-Experience the app in action: [Breast Cancer Predictor App]([https://breast-cancer-predictor-app-jshlf5rxsxwlgg4dxzpbbp.streamlit.app/]
+Experience the app in action: [Breast Cancer Predictor App][https://breast-cancer-predictor-app-jshlf5rxsxwlgg4dxzpbbp.streamlit.app/]
